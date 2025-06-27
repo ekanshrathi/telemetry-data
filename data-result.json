@@ -1,0 +1,8 @@
+{
+  "readings": [
+    { "timestamp": 1625239076000, "device": "A1", "value": 25 },
+    { "timestamp": 1625239078000, "device": "B2", "value": 30 },
+    { "timestamp": 1625239081000, "device": "A1", "value": 27 },
+    { "timestamp": 1625239083000, "device": "B2", "value": 32 }
+  ]
+}
